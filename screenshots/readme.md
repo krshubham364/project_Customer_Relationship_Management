@@ -1,1 +1,1 @@
-!["image"]("screenshots (1).png")
+!["image"](./image.png)
